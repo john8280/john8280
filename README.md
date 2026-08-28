@@ -60,3 +60,10 @@ A deployed multi-page React site for a venue business, including services, galle
 I am developing lightweight local-AI infrastructure, AI-ready ecommerce knowledge systems, agent-assisted marketing operations, and mobile-first business tools. I am especially interested in work where AI must connect to real products, customers, content, data, and operational constraints.
 
 > I use AI as an implementation partner, but the repositories document the decisions, architecture, limitations, and business purpose so the work can be evaluated on its own.
+
+
+<div align="center">
+  <a href="https://paypal.me/jmarruffo" target="_blank">
+    <img src="https://img.shields.io/badge/Support%20my%20open--source%20work-PayPal-0070BA?style=for-the-badge&logo=paypal&logoColor=white" alt="Support John Marruffo's open-source work with PayPal" />
+  </a>
+</div>
