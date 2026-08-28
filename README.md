@@ -1,3 +1,7 @@
+<p align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=john8280.john8280" alt="GitHub profile views" />
+</p>
+
 # John Marruffo
 
 ### AI implementation · Ecommerce systems · SEO/AEO · Full-stack product development
