@@ -1,76 +1,62 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=john8280.john8280" />
+# John Marruffo
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Yo!+👋;+I'm+John+Marruffo!;" />
-</h1>
+### AI implementation · Ecommerce systems · SEO/AEO · Full-stack product development
 
-<h3 align="center">A software developer from Dallas,Texas </h3>
+I build practical systems where marketing, product data, operations, and software meet. My background spans ecommerce leadership, digital marketing, React/React Native development, retail operations, and hands-on use of AI to make product information easier to discover, understand, and act on.
 
-<br/>
+Based in Dallas–Fort Worth. Open to AI implementation, ecommerce, product operations, SEO/AEO, digital marketing, and technical program roles.
 
-<div align="center">
- 
- 🔭 I’m currently working on **React and React Native Apps like e-commerce marketplace, storefronts and Shopify Sites**
- 
- 🌱 I’m currently learning **Next.Js, AWS, more Firebase to use in FERN projects**
+[LinkedIn](https://www.linkedin.com/in/john-marruffo-md-67196334) · [Email](mailto:drjohn8280@gmail.com) · [Portfolio repositories](https://github.com/john8280?tab=repositories)
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/john8280/john8280/issues)**
+## Featured work
 
-⚡ Fun fact **I can still tre flip at 48 years old!!**
+### [ReviveAI OS](https://github.com/john8280/reviveai-os)
 
- </div>
- 
-<div align="center"> 
-  <a href="mailto:drjohn8280@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/john-marruffo-md-67196334" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://john8280.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-</div>
+A Debian-based local-AI system intended to turn aging 64-bit PCs into private assistants instead of e-waste. It includes automatic hardware tiers, quantized model installation, a hardened `llama.cpp` service, a bootable ISO pipeline, diagnostics, and USB documentation.
 
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,java,nextjs,mysql,flask" /><br>
-</div>
+**Demonstrates:** local AI architecture, Linux automation, hardware-aware design, systemd security, GitHub Actions, open-source product strategy.
 
-<br/>
-<hr/>
+[Project site](https://reviveai-os.john8280.chatgpt.site) · [Manus site](https://reviveaios-tvnfwajt.manus.space)
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/john8280/john8280/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
+### [AI-Ready Product Knowledge Demo](https://github.com/john8280/ai-ready-product-knowledge-demo)
 
-<hr/>
+An interactive product-catalog demonstration showing how structured product data can serve traditional SEO, answer engines, AI discovery, customer support, and sales enablement from one source of truth.
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app" alt="streak stats"/>
-  <img width=390 src="https://streak-stats.demolab.com" />
-  <br/>
- 
-</div>
+**Demonstrates:** React, TypeScript, JSON-LD, Schema.org, semantic content, `llms.txt`, SEO/AEO information architecture, GitHub Pages.
 
-<br/><br/>
+[Live demo](https://john8280.github.io/ai-ready-product-knowledge-demo/)
 
-<hr/>
+### [Coffee Shop Mobile Commerce](https://github.com/john8280/Coffee-Shop-App7)
 
-<br/>
+A React Native ordering prototype with product discovery, details, navigation, cart-oriented state, payment flow, local persistence, animation, and native Android/iOS project structure.
 
-<div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
+**Demonstrates:** React Native, TypeScript, Zustand, AsyncStorage, React Navigation, mobile commerce UX.
 
-<br/>
+### [Automotive Operations Dashboard](https://github.com/john8280/AutoCobolApp)
+
+A React/Firebase prototype exploring how an automotive business could unify inventory management, order processing, reporting, and authentication in one operational interface.
+
+**Demonstrates:** business workflow modeling, React component architecture, Firebase integration planning, operational dashboards.
+
+### [Venue Conversion Website](https://github.com/john8280/venue-website)
+
+A deployed multi-page React site for a venue business, including services, gallery, contact flow, media presentation, responsive navigation, and GitHub Pages delivery.
+
+**Demonstrates:** React, routing, lead-generation UX, media components, responsive frontend delivery.
+
+[Live demo](https://john8280.github.io/venue-website/)
+
+## What I bring
+
+- Ecommerce ownership across merchandising, catalog operations, lifecycle marketing, conversion optimization, fulfillment, and customer experience
+- SEO strategy that connects technical structure, search intent, content, internal linking, product data, and conversion behavior
+- AEO/GEO experimentation using structured answers, entity relationships, schema, machine-readable product knowledge, and AI crawler guidance
+- React, React Native, JavaScript, TypeScript, Node.js, Python, Firebase, SQL, HTML/CSS, Git, and GitHub Actions
+- Experience translating business problems into prototypes, workflows, measurements, and implementation plans
+- Bilingual English/Spanish communication and a practical operator's perspective
+
+## Current focus
+
+I am developing lightweight local-AI infrastructure, AI-ready ecommerce knowledge systems, agent-assisted marketing operations, and mobile-first business tools. I am especially interested in work where AI must connect to real products, customers, content, data, and operational constraints.
+
+> I use AI as an implementation partner, but the repositories document the decisions, architecture, limitations, and business purpose so the work can be evaluated on its own.
